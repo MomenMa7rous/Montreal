@@ -638,7 +638,7 @@ nav.navbar > .container .logo + .menu-container:hover i.menu-icon + ul.menu{
     }
 
     .contact-info .container .box .icon{
-        margin: 0 0 20px;
+        margin: 0 0 20px !important;
     }
 }
 
